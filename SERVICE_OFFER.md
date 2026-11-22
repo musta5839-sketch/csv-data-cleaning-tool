@@ -1,30 +1,44 @@
 # CSV Data Cleaning
 
 ## Service
-I will clean and organize your CSV customer data.
+
+I will clean, deduplicate, and organize your customer CSV data.
 
 ## Included
-- Remove duplicate email records.
+
+- Remove duplicate records based on email address.
 - Normalize email capitalization.
-- Clean surrounding whitespace.
+- Remove surrounding whitespace.
+- Normalize column names.
 - Separate duplicate records.
-- Separate records with missing emails.
-- Deliver organized CSV files.
+- Separate records with missing email addresses for review.
+- Deliver three organized CSV files.
 
 ## Deliverables
+
 - clean.csv
 - duplicates.csv
 - review.csv
 
-## Requirements
-- CSV input file.
-- Email column.
-- Maximum initial order size: 1,000 records.
+## Base Package
 
-## Quality Check
+- One CSV file.
+- Up to 1,000 data records.
+- One email column.
+- CSV format.
+
+Larger files and custom requirements require a separate quote.
+
+## Quality Report
+
 Original = Clean + Duplicates + Review
 
 ## Introductory Price
-$5 per small CSV file.
 
-Large files and custom requirements are quoted separately.
+$5 per eligible CSV file.
+
+## Requirements
+
+Please provide a CSV file containing an email column.
+
+Email syntax validation and data enrichment are not included.

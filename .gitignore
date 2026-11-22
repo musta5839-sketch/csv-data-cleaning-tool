@@ -4,3 +4,5 @@ pycache/
 demo/*_clean.csv
 demo/*_duplicates.csv
 demo/*_review.csv
+
+MARKET_PLAN.md
